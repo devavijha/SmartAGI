@@ -1,4 +1,7 @@
 SmartAGI is an advanced AI-powered educational platform designed to simplify and enhance learning experiences for students and teachers. The platform integrates Artificial General Intelligence (AGI) to provide personalized learning plans, resource management, and real-time assistance for students, while empowering teachers with tools to monitor, guide, and manage their students effectively.
+
+Click in this link(preview):>    https://smartagi.netlify.app/
+
 🖥Features:
 🔑 Separate Login Portals
 Students:
@@ -41,7 +44,7 @@ npm start
 The application will run at http://localhost:3000.
 
 🔗 Live Demo
-Explore the live application here: [SmartAGI](https://smartagi.netlify.app/register)
+Explore the live application here: [[SmartAGI](https://smartagi.netlify.app/register)]
 
 🛡️ Security & Privacy
 All user data is securely encrypted and stored.
