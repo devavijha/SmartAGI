@@ -51,11 +51,7 @@ For queries, feedback, or contributions, reach out to us at:
 
 Email: support@smartagi.com
 Website: smartagi.netlify.app
-🙌 Contributing
-We welcome contributions! To contribute:
 
-Fork the repository.
-Create a feature branch.
-Push changes and create a pull request.
-📜 License
+
+
 This project is licensed under the MIT License. See the LICENSE file for details.
